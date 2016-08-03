@@ -1,6 +1,6 @@
 # Day1
 ## 共同課程
-- HTML CSS JS GIT ()
+- HTML CSS JS GIT 
 	- http://camp.qbane.club/
 - JS 練習OJ
 	- http://www.codefficient.org.tw/
@@ -13,3 +13,7 @@
 # Day2
 - 前端分流課程 #1
 	- http://slides.bobbyrealms.info/sitcon-camp-2016/front-1.html#/
+- 共同課程 HTTPS 
+	- 傳輸練習 
+	- http://httpbin.org/
+
